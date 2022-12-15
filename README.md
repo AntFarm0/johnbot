@@ -1,4 +1,6 @@
 # johnbot
+This is a basic skeleton of a chatbot. In the future you can definitely implement your own machine learning models, algorithms, and even more data into the bot to 
+make it more advanced.
 
 Johnbot.py: Provides main functions to create responses for different sentence inputs into the program.
 
@@ -11,6 +13,3 @@ customizable.
 
 word-data.xlsx: Contains the actual data and words that johnbot can recognize. Also highly customizable.
 
-
-This is a basic skeleton of an AI chatbot. In the future you can definitely implement your own machine learning models, algorithms, and even more data into the bot to 
-make it more advanced.
