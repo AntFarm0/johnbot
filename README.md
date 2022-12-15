@@ -1,6 +1,6 @@
 # johnbot
 This is a basic skeleton of a chatbot. In the future you can definitely implement your own machine learning models, algorithms, and even more data into the bot to 
-make it more advanced.
+make it more advanced. Be aware that the data includes some bad words.
 
 Johnbot.py: Provides main functions to create responses for different sentence inputs into the program.
 
